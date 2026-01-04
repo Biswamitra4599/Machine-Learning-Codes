@@ -1,5 +1,6 @@
 .venv/
 *.png
 __pycache__/
-*/.gif
-Naive Bayes/sms_data/
+*.zip
+.\Naive Bayes\sms_data\
+
